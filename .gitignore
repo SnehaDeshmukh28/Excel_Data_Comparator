@@ -1,0 +1,33 @@
+# Virtual environment
+
+venv/
+.env/
+
+# Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+
+.DS_Store
+Thumbs.db
+
+# IDE files
+
+.vscode/
+.idea/
+
+# Logs
+
+*.log
+
+# Excel temporary files
+
+~$*.xlsx
+
+# OS generated files
+
+*.swp
