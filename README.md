@@ -48,9 +48,13 @@ It generates a final Excel file with **color-coded highlights**, making data aud
 
 ### 📊 Final Output (Excel Highlights)
 
-![Excel Output](./screenshots/output.png)
+<div align="center">
+  <img src="screenshots/output.png" width="900"/>
+</div>
 
-> Green = New rows | Blue = Updated rows | Yellow = Changed cells
+<p align="center">
+  <b>Green</b> = New rows | <b>Blue</b> = Updated rows | <b>Yellow</b> = Changed cells
+</p>
 
 ---
 
