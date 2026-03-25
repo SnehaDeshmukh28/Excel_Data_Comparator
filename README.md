@@ -46,9 +46,11 @@ It generates a final Excel file with **color-coded highlights**, making data aud
 
 ---
 
-### 📊 Final Output (Excel Highlights)
+### 📊 Final Output (Highlighted Differences)
 
-![Excel Output](screenshots/excel_output.jpeg)
+<img src="screenshots/excel_output.jpeg" width="800"/>
+
+> Green = New rows | Blue = Updated rows | Yellow = Changed cells
 
 ---
 
